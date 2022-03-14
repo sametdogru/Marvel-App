@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Marvel
 //
-//  Created by Samet Doğru on 13.03.2022.
+//  Created by Samet Doğru on 14.03.2022.
 //
 
 import UIKit
